@@ -4,7 +4,7 @@ GitHub adaptation of MicroHaplotype pipeline.
 ## UPDATE
 DEPRECIATED / DISCONTINUED PIPELINE
 
-See: https://github.com/vivaxgen/MicroHaps
+FOR NEW PIPELINE - SEE: https://github.com/vivaxgen/MicroHaps
 
 ## Installation on local devices and private servers (skip this step if using ADA)
 First create a tools directory to keep track of all software and repositories used by this pipeline.
